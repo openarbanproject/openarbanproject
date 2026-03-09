@@ -7,7 +7,7 @@ As indicated by the name, the original goal and current primary purpose of oAP i
 * ✏ Create multiple versions of an exercise with different articulations
 * ✏ Reinterpret a study using up-to-date style
 * ✏ Create an authentic 19th Century version for performance practice practise
-* ✏ Transpose a study into different keys
+* ✏ Transpose a study into different keys or tonalities
 * 🤔 etc.
 
 As you can see there are examples of other public domain brass music that have their own repositories, including a version of the Haydn Trumpet Concerto for students to mark-up as they choose.
